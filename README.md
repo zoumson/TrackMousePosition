@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-Mouse curosr position prediction.
+Mouse cursor position prediction.
 <!--Built with -->
 ### Built With
 
