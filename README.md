@@ -13,7 +13,7 @@
 [![Leetcode][leetcode-shield]][eetcode.com/Hard_Code/]
 -->
 ## Mouse Next Position Prediction 
-![mn](https://user-images.githubusercontent.com/38358621/122679991-beb0a980-d21f-11eb-958e-bd029d98fb0e.png)
+![mouse](https://user-images.githubusercontent.com/38358621/122943458-9fde1e80-d3a9-11eb-8de8-6e91af8ae3fe.png)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -51,9 +51,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![mouse](https://user-images.githubusercontent.com/38358621/122943458-9fde1e80-d3a9-11eb-8de8-6e91af8ae3fe.png)
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
+Mouse curosr position prediction.
 <!--Built with -->
 ### Built With
 
